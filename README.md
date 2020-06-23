@@ -1,4 +1,5 @@
 # hello-world
 Just another repository
 print("Hi")
-print("hey")
+print("hey there")
+print("hey you")
